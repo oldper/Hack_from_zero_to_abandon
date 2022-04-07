@@ -1,4 +1,4 @@
-# Hack從入門到放棄
-通常要入門hack都會有一個領路人,很遺憾我並不會是那個人,這本書是在勸退你的,我會盡量把所有觀念說得簡單,但是本質不會變的
+# Hacker from zero to abandon
+  Hello. This is a book want to introduce CTF and lead you to this beautiful world.
 
 
